@@ -2,5 +2,5 @@
 Development dependencies Ubuntu
 </h1>
 <h4 align="center">
-Setup of ubuntu packages, libraries and development dependencies
+Setup of Ubuntu packages, libraries and development dependencies
 </h4>
