@@ -1,3 +1,6 @@
 <h1 align="center">
-Setup of ubuntu development packages and libraries
+Setup Ubuntu 
 </h1>
+<h4 align="center">
+Setup Ubuntu development packages and libraries
+</h4>
