@@ -1,5 +1,5 @@
 <h1 align="center">
-Setup Ubuntu 
+Development dependencies Ubuntu
 </h1>
 <h4 align="center">
 Setup of ubuntu packages, libraries and development dependencies
